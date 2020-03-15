@@ -5,6 +5,9 @@ This is an outline for computer science for everyone who want to learn about com
 Lecture 0 : 
 Introuction to Computer Science 
 https://www.youtube.com/watch?v=z-OxzIC6pic
-
 In urdu 
 https://www.youtube.com/watch?v=pQCkGfCghyI
+
+Lecture 1 : 
+Introduction to Hardware and Software 
+https://www.youtube.com/watch?v=Q7JEvW99J1I
